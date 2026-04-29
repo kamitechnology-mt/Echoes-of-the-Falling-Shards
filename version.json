@@ -1,9 +1,12 @@
 {
-  "latestVersion": "1.0.0",
-  "downloadUrl": "https://www.dropbox.com/scl/fi/0vnm0tq6n4njm48c5inm7/EchoesOfTheFallingShards_v1.0.0.apk?rlkey=2owniy8qhp7eaf6pewzgjlesq&st=oxqmpnzx&dl=1",
+  "latestVersion": "1.0.1",
+  "downloadUrl": "https://www.dropbox.com/scl/fi/m8c6amqlbn4rjlnqkjisi/EchoesOfTheFallingShards_v1.0.1.apk?rlkey=k0o0dkrwsrth8xpbypztd606a&st=6yoxxszs&dl=1",
   "releaseNotes": [
-    "Modificate le missioni.",
-    "Risolti piccoli bug.",
-    "Aggiunto Sistema di Aggiornamento Automatico."
+	"Notifiche di sistema",
+    "Nuovi tasti",
+	"Timer missioni",
+	"Cassa Offline dai Dungeon",
+    "Equilibrati alcuni aspetti del gioco",
+    "Risolti piccoli bug noti"
   ]
 }
