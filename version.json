@@ -1,12 +1,10 @@
 {
-  "latestVersion": "1.0.1",
-  "downloadUrl": "https://www.dropbox.com/scl/fi/wj16why2m661rgmhahgvd/EchoesOfTheFallingShards_v1.0.1.apk?rlkey=b3s7rk294glvdh5outmvqfnux&st=11w7v0s2&dl=1",
+  "latestVersion": "1.0.2",
+  "downloadUrl": "https://www.dropbox.com/scl/fi/jmh8ptoru5imvyw2s47k5/EchoesOfTheFallingShards_v1.0.2.apk?rlkey=gqmv1lsd3js1ayt5my8ab5p5u&st=zmj7jusi&dl=1",
   "releaseNotes": [
-	"Notifiche di sistema",
-    "Nuovi tasti",
-	"Timer missioni",
-	"Cassa Offline dai Dungeon",
-    "Equilibrati alcuni aspetti del gioco",
+	"Signori: Abbiamo il login con Google!",
+	"Equilibrata la Cassa Offline",
+	"Ora i premi offline calcolano il KPM reale",
     "Risolti piccoli bug noti"
   ]
 }
