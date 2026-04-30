@@ -1,10 +1,11 @@
 {
   "latestVersion": "1.0.2",
-  "downloadUrl": "",
+  "downloadUrl": "https://www.dropbox.com/scl/fi/4trfpp5655z9qaz9mzkux/EchoesOfTheFallingShards_v1.0.2.apk?rlkey=jsea9w31wn6xph4bifd0mcjlw&st=y2pxobpx&dl=1",
   "releaseNotes": [
 	"Signori: Abbiamo il login con Google!",
 	"Equilibrata la Cassa Offline",
 	"Ora i premi offline calcolano il KPM reale",
+	"Abilità Esplorazione a potenziamento infinito",
     "Risolti piccoli bug noti"
   ]
 }
