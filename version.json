@@ -1,11 +1,10 @@
 {
-  "latestVersion": "1.0.2",
-  "downloadUrl": "https://www.dropbox.com/scl/fi/hj6am9mi9rjp2phmwcqp0/EchoesOfTheFallingShards_v1.0.2.apk?rlkey=1lehvz7phxrr9b08qv8xen4i6&st=2lqgmhg1&dl=1",
+  "latestVersion": "1.0.3",
+  "downloadUrl": "https://www.dropbox.com/scl/fi/orubkgedw86t6hh4bjnkk/EchoesOfTheFallingShards_v1.0.3.apk?rlkey=xlwwy47wd1ijbun6crce8wd4e&st=2ly0bdty&dl=1",
   "releaseNotes": [
-	"Signori: Abbiamo il login con Google!",
-	"Equilibrata la Cassa Offline",
-	"Ora i premi offline calcolano il KPM reale",
-	"Abilità Esplorazione a potenziamento infinito",
+	"Nuove rarità per Equip e Gemme",
+	"Nuovi Pet Imperiali",
+	"Nuova funzionalità: Laboratorio Famigli",
     "Risolti piccoli bug noti"
   ]
 }
