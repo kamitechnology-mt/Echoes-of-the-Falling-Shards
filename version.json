@@ -1,10 +1,11 @@
 {
-  "latestVersion": "1.0.3",
-  "downloadUrl": "https://www.dropbox.com/scl/fi/p71tyvlrpsj8n0qxsmeuo/EchoesOfTheFallingShards_v1.0.3.apk?rlkey=nlh07py1y761tethh0hlw1j24&st=h52i1w8d&dl=1",
+  "latestVersion": "1.0.4",
+  "downloadUrl": "https://www.dropbox.com/scl/fi/ke1v0okpi6dzzcrheu18u/EchoesOfTheFallingShards_v1.0.4.apk?rlkey=fac766soxs5ifxdto9ddr74po&st=oe50tno4&dl=1",
   "releaseNotes": [
-	"Nuove rarità per Equip, Gemme e Casse Offline",
-	"Nuovi Pet Imperiali",
-	"Nuova funzionalità: Laboratorio Famigli",
+	"Nuova modalità: Conquista",
+	"Nuovi titoli e animazioni per il Prestigio",
+	"Migliorie Gemme",
+	"Guida aggiornata",
     "Risolti piccoli bug noti"
   ]
 }
