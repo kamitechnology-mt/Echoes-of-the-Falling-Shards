@@ -1,13 +1,12 @@
 {
-  "latestVersion": "1.0.4",
-  "downloadUrl": "https://www.dropbox.com/scl/fi/9nkk7pxv1eaia6xnzxtnl/EchoesOfTheFallingShards_v1.0.4.apk?rlkey=mgirug12e7jsgqk878wyjelo2&st=nk1ojfok&dl=1",
+  "latestVersion": "1.0.5",
+  "downloadUrl": "https://www.dropbox.com/scl/fi/xs4z5lhzmleyb4n5p9ub4/EchoesOfTheFallingShards_v1.0.5.apk?rlkey=61tavltlkzp5d5lh2if1azndv&st=9wzczt42&dl=1",
   "releaseNotes": [
-	"Nuova modalità: Conquista",
-	"Nuova Arena",
-	"Ruota della Fortuna",
-	"Nuovi titoli e animazioni per il Prestigio",	
-	"Migliorie Gemme",
+	"Nuovo equipaggiamento: Gioielli",
+	"Nuova sezione Fabbro: Gioielleria",
+	"Migliorie prezzi Bottega",
+	"Migliorie grafiche",
 	"Guida aggiornata",
-    "Risolti piccoli bug noti"
+    "Risolti bug noti e bug critici"
   ]
 }
