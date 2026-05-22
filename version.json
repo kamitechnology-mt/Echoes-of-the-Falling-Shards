@@ -1,17 +1,9 @@
 {
-  "latestVersion": "1.0.5",
-  "downloadUrl": "https://www.dropbox.com/scl/fi/s22gkl77tg7phqqki4wmk/EchoesOfTheFallingShards_v1.0.5.apk?rlkey=j7udfox9hloolx45vcq64rrhb&st=qmuuylp0&dl=1",
+  "latestVersion": "1.0.6",
+  "downloadUrl": "https://www.dropbox.com/scl/fi/d5ryzl61690m9khflz8ml/EchoesOfTheFallingShards_v1.0.6.apk?rlkey=oy1i8zszqhbebr0ahwn93r43c&st=y0419m0u&dl=1",
   "releaseNotes": [
-	"Parte 6 della Patch",
-	"Nuovi Famigli Imperiali",
-	"Eventi giornalieri",
-	"Ottimizzato enormemente il gioco",
-	"Ottimizzato il consumo di batteria",
-	"Nuovo equipaggiamento: Gioielli",
-	"Nuova sezione Fabbro: Gioielleria",
-	"Migliorie prezzi Bottega",
-	"Migliorie grafiche",
-	"Guida aggiornata",
+	"Rivisitato totalmente ogni algoritmo del gioco",
+	"Modifiche e novità importanti in tutto il gioco",
     "Risolti bug noti e bug critici"
   ]
 }
