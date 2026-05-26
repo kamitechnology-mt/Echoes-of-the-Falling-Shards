@@ -1,7 +1,9 @@
 {
   "latestVersion": "1.0.6",
-  "downloadUrl": "https://www.dropbox.com/scl/fi/2u4og8kvtaqncser8mekr/EchoesOfTheFallingShards_v1.0.6.apk?rlkey=kiy836f6jg6yxxsplqqonfcy3&st=1svs3jnl&dl=1",
+  "downloadUrl": "https://www.dropbox.com/scl/fi/owntpbfsv3gpz5f5m02b7/EchoesOfTheFallingShards_v1.0.6.apk?rlkey=p2zt6v04z6aopi4m2sbzxqayu&st=gqmhr59u&dl=1",
   "releaseNotes": [
+    "Nuovo sistema di Prestigio Equipaggiamento",
+	"Nuovo Item: Nucleo Prestigio",
 	"Ottimizzazioni e migliore alle prestazioni",
 	"Tasto Auto Acquista in BOTTEGA",
 	"Nuove animazioni",
