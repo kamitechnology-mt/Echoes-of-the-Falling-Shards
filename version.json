@@ -1,17 +1,10 @@
 {
-  "latestVersion": "1.0.7",
-  "downloadUrl": "https://github.com/kamitechnology-mt/Echoes-of-the-Falling-Shards/releases/download/Aggiornamento/EchoesOfTheFallingShards_v1.0.7.apk",
+  "latestVersion": "1.0.8",
+  "downloadUrl": "https://github.com/kamitechnology-mt/Echoes-of-the-Falling-Shards/releases/download/Aggiornamento/EchoesOfTheFallingShards_v1.0.8.apk",
   "releaseNotes": [
-    "Nuovo sistema di Messaggistica",
-	"Nuovo sistema di Codici Promozionali",
-    "Nuova modalità: BOSS MONDIALE con CLASSIFICA GLOBALE",
-	"Nuova sezione: ALBERO",
-	"Nuovi item: Frammento Nucleo Ramo e Nucleo Ramo",
-	"Aggiunto Auto-Battle e Auto-Birra in Conquista",
-	"Modifica all'algoritmo di aumento Punti Sete",
-	"Modifica all'algoritmo ELO Arena e relativi premi",
-	"Migliorie grafiche",
-	"Guida aggiornata",
-    "Risolti bug noti e bug critici"
+    "Nuova feature: Famiglio Personale",
+    "Nuovo Server Download",
+	"Nuova grafica aggiornamento e download (a partire dalla prossima patch)",
+	"Popup Ascensione Gemme"
   ]
 }
