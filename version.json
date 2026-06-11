@@ -1,10 +1,11 @@
 {
-  "latestVersion": "1.0.8",
-  "downloadUrl": "https://github.com/kamitechnology-mt/Echoes-of-the-Falling-Shards/releases/download/Aggiornamento/EchoesOfTheFallingShards_v1.0.8.apk",
+  "latestVersion": "1.0.9",
+  "downloadUrl": "https://github.com/kamitechnology-mt/Echoes-of-the-Falling-Shards/releases/download/Aggiornamento/EchoesOfTheFallingShards_v1.0.9.apk",
   "releaseNotes": [
-    "Nuova feature: Famiglio Personale",
-    "Nuovo Server Download",
-	"Nuova grafica aggiornamento e download (a partire dalla prossima patch)",
-	"Popup Ascensione Gemme"
+    "Nuova feature: Trascendenza Imperiale per l'equipaggiamento",
+    "Bilanciamento Torre dei Demoni",
+	"Bilanciamento Dungeon",
+	"Tradotto il 70% del gioco",
+	"Fix bug Critici"
   ]
 }
