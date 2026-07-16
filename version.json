@@ -1,12 +1,12 @@
 {
-  "latestVersion": "1.1.0",
-  "downloadUrl": "https://github.com/kamitechnology-mt/Echoes-of-the-Falling-Shards/releases/download/Aggiornamento/EchoesOfTheFallingShards_v1.1.0.apk",
+  "latestVersion": "1.2.0",
+  "downloadUrl": "https://github.com/kamitechnology-mt/Echoes-of-the-Falling-Shards/releases/download/Aggiornamento/EchoesOfTheFallingShards_v1.2.0.apk",
   "releaseNotes": [
-    "Nuova feature: Trasmutazione Critico in Difesa (eccesso oltre il 100% convertito al 20% in DIF)",
-    "Nuova feature: Canale Discord",
-	"Nuova feature: Patch automatiche",
-    "Nuova feature: Traduzione automatica",
-	"Termini & Eula", 
+    "Ora le scarpe forniscono DES",
+	"Rework Minigames",
+	"Nuova feature: TUTORIAL INTERATTIVO",
+	"Nuovi Tasti",
+	"Nuovo Emporio Yin",
     "Bug Fix"
   ]
 }
