@@ -31,4 +31,4 @@ Built with React, Vite, Tailwind CSS, and Capacitor for Android deployment.
    Apri in Android Studio con `npx cap open android`.
 
 ---
-© 2026 Kami Technology MT. Tutti i diritti riservati.
+© 2026 KamiVerse MT. Tutti i diritti riservati.

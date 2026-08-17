@@ -1,8 +1,8 @@
-Copyright (c) 2026 Kami Technology MT. All rights reserved.
+Copyright (c) 2026 KamiVerse MT. All rights reserved.
 
 This software and associated documentation files (the "Software") are proprietary and confidential. 
 No part of this Software may be reproduced, distributed, or transmitted in any form or by any means, 
 including photocopying, recording, or other electronic or mechanical methods, without the prior 
-written permission of Kami Technology MT.
+written permission of KamiVerse MT.
 
-For permission requests, please contact Kami Technology MT.
+For permission requests, please contact KamiVerse MT.
